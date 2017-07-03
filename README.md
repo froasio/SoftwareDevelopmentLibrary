@@ -29,6 +29,10 @@ This is my personal selection of computer science books, those that any good pro
 **Algorithms**
 ----
 
+### [Introduction to Algorithms](https://www.amazon.co.uk/Introduction-Algorithms-T-Cormen/dp/0262533057)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/41PpogZtaOL._AC_UL115_.jpg" width="120px"/>
+
 **Testing**
 ----
 

@@ -1,6 +1,5 @@
 # Computer Science Library
 This is my personal selection of computer science books, those that any good programmer should open at least once.
-
 ====
 * [Books](#books)
  * [Operating Systems](#operating-systems)

@@ -33,6 +33,10 @@ This is my personal selection of computer science books, those that any good pro
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41PpogZtaOL._AC_UL115_.jpg" width="120px"/>
 
+### [Algorithm Design](https://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/81onzAm2kgL._AC_UL320_SR280,320_.jpg" width="120px"/>
+
 **Testing**
 ----
 

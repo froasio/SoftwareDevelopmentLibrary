@@ -36,7 +36,15 @@ This is my personal selection of computer science books, those that any good pro
 **Testing**
 ----
 
-### [Test Driven Development for Embedded C (Pragmatic Programmers)](https://www.amazon.com/Driven-Development-Embedded-Pragmatic-Programmers-ebook/dp/B01D3TWF5M/ref=sr_1_14?s=digital-text&ie=UTF8&qid=1499097727&sr=1-14&keywords=tdd)
+### [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51kDbV%2BN65L._AC_UL320_SR254,320_.jpg width="120px"/>
+
+### [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/815pmDIU7yL._AC_UL320_SR244,320_.jpg" width="120px"/>
+
+### [Test Driven Development for Embedded C (Pragmatic Programmers)](https://www.amazon.com/Driven-Development-Embedded-Pragmatic-Programmers-ebook/dp/B01D3TWF5M)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/91i-nereO-L.__BG0,0,0,0_FMpng_AC_UL320_SR266,320_.jpg" width="120px"/>
 

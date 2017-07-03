@@ -21,6 +21,10 @@ This is my personal selection of computer science books, those that any good pro
 
 <img src="https://martinfowler.com/books/refactoringBook.jpg" width="120px"/>
 
+### [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/81RqaoZnLwL._AC_UL115_.jpg" width="120px"/>
+
 **Algorithms**
 ----
 

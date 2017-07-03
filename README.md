@@ -31,6 +31,10 @@ This is my personal selection of computer science books, those that any good pro
 **Testing**
 ----
 
+### [Test Driven Development for Embedded C (Pragmatic Programmers)](https://www.amazon.com/Driven-Development-Embedded-Pragmatic-Programmers-ebook/dp/B01D3TWF5M/ref=sr_1_14?s=digital-text&ie=UTF8&qid=1499097727&sr=1-14&keywords=tdd)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/91i-nereO-L.__BG0,0,0,0_FMpng_AC_UL320_SR266,320_.jpg" width="120px"/>
+
 **Software Design**
 ----
 

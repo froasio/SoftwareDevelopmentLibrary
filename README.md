@@ -51,6 +51,10 @@ This is my personal selection of computer science books, those that any good pro
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/91bobQSPQrL.__BG0,0,0,0_FMpng_AC_UL160_SR138,160_.jpg" width="120px"/>
 
+### [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51IuDvAU1CL._AC_UL320_SR248,320_.jpg" width="120px"/>
+
 **Software Development**
 ----
 

@@ -1,6 +1,7 @@
 # Computer Science Library
 
-This is my personal selection of computer science books, those that any good programmer should open at least once.
+This is my personal library of Computer Science & Software Development books. Some of them were read in detail, some others are good reference books. Most of them are beautiful classics.
+
 * [Operating Systems](#operating-systems)
 * [Legacy Systems](#legacy-systems)
 * [Algorithms](#algorithms)
@@ -85,3 +86,10 @@ This is my personal selection of computer science books, those that any good pro
 ### [Extreme Programming Explained: Embrace Change, 2nd Edition (The XP Series)](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51l1X81fhiL._AC_UL320_SR254,320_.jpg" width="120px"/>
+
+**Others**
+----
+
+### [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/41WonSY9PbL._AC_UL320_SR254,320_.jpg" width="120px"/>

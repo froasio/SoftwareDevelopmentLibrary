@@ -38,7 +38,7 @@ This is my personal selection of computer science books, those that any good pro
 
 ### [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51kDbV%2BN65L._AC_UL320_SR254,320_.jpg width="120px"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/51kDbV%2BN65L._AC_UL320_SR254,320_.jpg" width="120px"/>
 
 ### [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
 

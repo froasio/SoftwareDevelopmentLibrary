@@ -63,6 +63,10 @@ This is my personal selection of computer science books, those that any good pro
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51IuDvAU1CL._AC_UL320_SR248,320_.jpg" width="120px"/>
 
+### [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/5156gHBSxaL._AC_UL320_SR244,320_.jpg" width="120px"/>
+
 **Software Development**
 ----
 
@@ -73,3 +77,7 @@ This is my personal selection of computer science books, those that any good pro
 ### [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master-ebook/dp/B003GCTQAE/ref=pd_sim_351_4?_encoding=UTF8&psc=1&refRID=HE26GEBZTMRYVBKB0V85)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41uPjEenkFL.__BG0,0,0,0_FMpng_AC_UL320_SR254,320_.jpg" width="120px"/>
+
+### [Extreme Programming Explained: Embrace Change, 2nd Edition (The XP Series)](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51l1X81fhiL._AC_UL320_SR254,320_.jpg" width="120px"/>

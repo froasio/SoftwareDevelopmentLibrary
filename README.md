@@ -33,3 +33,11 @@ This is my personal selection of computer science books, those that any good pro
 
 **Software Design**
 ----
+
+### [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51kuc0iWoKL.__BG0,0,0,0_FMpng_AC_UL320_SR210,320_.jpg" width="120px"/>
+
+### [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY/ref=pd_sim_351_3?_encoding=UTF8&psc=1&refRID=HE26GEBZTMRYVBKB0V85)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/91bobQSPQrL.__BG0,0,0,0_FMpng_AC_UL160_SR138,160_.jpg"/>

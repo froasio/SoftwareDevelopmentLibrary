@@ -17,6 +17,10 @@ This is my personal selection of computer science books, those that any good pro
 **Legacy Systems**
 ----
 
+### [Refactoring](https://martinfowler.com/books/refactoring.html)
+
+<img src="https://martinfowler.com/books/refactoringBook.jpg" width="120px"/>
+
 **Algorithms**
 ----
 

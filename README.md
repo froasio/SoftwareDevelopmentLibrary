@@ -16,6 +16,10 @@ This is my personal library of Computer Science & Software Development books. So
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/71nBWJXx5cL._AC_UL320_SR248,320_.jpg" width="120px"/>
 
+### [Operating System Concepts](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1118063333)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/811N4zhBNdL._AC_UL320_SR222,320_.jpg" width="120px"/>
+
 **Legacy Systems**
 ----
 

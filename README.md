@@ -8,6 +8,7 @@ This is my personal library of Computer Science & Software Development books. So
 * [Testing](#testing)
 * [Software Design](#software-design)
 * [Software Development](#software-development)
+* [Others](#others)
 
 **Operating Systems**
 ----

@@ -91,6 +91,10 @@ This is my personal library of Computer Science & Software Development books. So
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51l1X81fhiL._AC_UL320_SR254,320_.jpg" width="120px"/>
 
+### [The Art of Agile Development: Pragmatic Guide to Agile Software Development](https://www.amazon.com/Art-Agile-Development-Pragmatic-Software/dp/0596527675)
+
+<img src="https://covers.oreillystatic.com/images/9780596527679/cat.gif" width="120px"/>
+
 **Others**
 ----
 
